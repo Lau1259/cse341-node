@@ -1,0 +1,5 @@
+# Ignore my notes folder
+/Notes
+
+# Dependency directories
+node_modules/

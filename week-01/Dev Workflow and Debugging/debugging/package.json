@@ -1,0 +1,15 @@
+{
+  "name": "01-understanding-npm-scripts",
+  "version": "1.0.0",
+  "description": "Node.js guide | Lesson on npm scripts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Lautaro Cuevas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
