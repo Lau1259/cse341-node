@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Hunger Games 1",
+    "author": "Suzanne Collins",
+    "summary": "Young Adult dystopian novel where young woman must fight to the death against youths from other sectors of her country.",
+    "rating": "Great"
+  },
+  {
+    "title": "The Hunger Games 2",
+    "author": "Suzanne Collins",
+    "summary": "Young Adult dystopian novel where young woman must fight to the death against youths from other sectors of her country.",
+    "rating": "Ok"
+  },
+  {
+    "title": "The Hunger Games 3",
+    "author": "Suzanne Collins",
+    "summary": "Young Adult dystopian novel where young woman must fight to the death against youths from other sectors of her country.",
+    "rating": "Good"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "Unknown Author",
+    "summary": "While playing, Lucy and her siblings find a wardrobe that lands them in a mystical place called Narnia. Here they realise that it was fated and they must now unite with Aslan to defeat an evil queen.",
+    "rating": "No ratings yet."
+  },
+  {
+    "title": "The Tale of Despereaux",
+    "author": "Unknown Author",
+    "summary": "The Tale of Despereaux is a 2003 children's fantasy book written by Kate DiCamillo. The main plot follows the adventures of a mouse named Despereaux Tilling, as he sets out on his quest to rescue a beautiful human princess from the rats. The book won the 2004 Newbery Medal award",
+    "rating": "No ratings yet."
+  },
+  {
+    "title": "Pretties",
+    "author": "Scott Westerfeld",
+    "summary": "Pretties is a 2005 science fiction novel and the second book of the Uglies Trilogy written by Scott Westerfeld. The premise of the novel relies on a future set in a future dystopian world in which everyone is turned \"Pretty\" by extreme cosmetic surgery upon reaching age 16.",
+    "rating": "Excellent"
+  }
+]
